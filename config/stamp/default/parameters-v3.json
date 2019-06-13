@@ -60,7 +60,7 @@
             "value": "{DEPLOYMENTSLOT}"
         },
         "deploymentVersionId": {
-            "value": "{DEPLOYMENTVERSIONID}"
+            "value": "06132019117"
         },
         "autoScaleEnabled": {
             "value": true
